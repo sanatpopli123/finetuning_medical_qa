@@ -1,5 +1,8 @@
 # finetuning_medical_qa
 
+# Google collab Link- https://colab.research.google.com/drive/1Lj_5iEZZBpLSe-5ic4hshjwXZ5M2dpfw?usp=sharing
+# Video-link- https://drive.google.com/file/d/1qnkmRdUlG6VlfuwtY9VoKHFwOd2GR2sT/view?usp=sharing
+
 Medical Question Answering Project Report
 1. Dataset Loading and Preprocessing
 
